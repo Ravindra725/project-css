@@ -1,0 +1,162 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.one
+{
+    height: 60px;
+    width: 100%;
+    background-color: white;
+    padding-left: 100px;
+    padding-top: 10px;
+    font-size: 25px;
+    box-shadow: 0px 0px 10px gray;
+
+}
+.one1
+{
+    color: rgb(11, 201, 201);
+}
+.peris
+{
+    text-decoration: none;
+}
+.add-text
+{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+.fa-solid
+{
+    font-size: 30px;
+    color: rgb(152, 152, 152);
+}
+.text-container
+{
+    margin-top: 15px;
+    margin-left: 25%;
+}
+.text-one
+{
+    display: inline-block;
+}
+.text-container1
+{
+    margin-top: 15px;
+    margin-left: 25%;
+}
+.flex-item
+{
+    height: 250px;
+    width: 370px;
+    background-color: white;
+    border-radius: 10px;
+    /* box-shadow: 0px 0px 10px gray; */
+    margin: 30px;
+    margin-left: 30%;
+}
+.flex-item:hover
+{
+    box-shadow: 0px 0px 10px gray;
+}
+.para
+{
+    color: rgb(2, 166, 166);
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.checkbox-item
+{
+    margin-left: 20px;
+    font-size: 18px;
+    width: 20px;
+    height: 20px;
+    user-select: none;
+    cursor: pointer;
+    color: gray;
+}
+.visit
+{
+    text-decoration: line-through;
+    font-size: 20px;
+    color: grey;
+}
+.visit1
+{
+    font-size: 20px;
+}
+body
+{
+    background-color: rgb(240, 240, 240);
+}
+.blure-item
+{
+    filter: blur(5px);
+}
+.container
+{
+    height: 200px;
+    width: 350px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px black;
+    padding-top: 10px;
+    position: absolute;
+    top: 25vh;
+    left: 30%;
+    z-index: 2;
+}
+.paraa1
+{
+ font-size: 20px;
+ font-weight: bold;
+ color: rgb(0, 0, 0);
+ display: inline;
+ margin-left: 20px;
+ cursor: pointer;
+}
+.paraa11
+{
+    margin-left: 130px;
+}
+.container1
+{
+    background-color: rgba(116, 116, 116, 0.1);
+    height: 30px;
+    width: 260px;
+    margin-left: 15px;
+    margin-top: 40px;
+    padding-top: 2px;
+}
+.paraa12
+{
+    font-size: 15px;
+    color: gray;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.container2
+{
+    height: 30px;
+    width: 150px;
+    background-color: rgb(0, 118, 253);
+    margin-left: 170px;
+    margin-top: 40px;
+}
+.paraa13
+{
+    color: white;
+    margin-left: 10px;
+    padding-top: 5px;
+    text-align: center;
+}
+.tag-item
+{
+    text-decoration: none;
+}
